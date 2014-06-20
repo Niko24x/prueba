@@ -6,6 +6,7 @@
     </title>
   </head>
   <body> 
+    <div class = "header"></div>
     <div class= "gallery"></div>
     <div class= "footer"></div>
   </body>
