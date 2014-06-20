@@ -6,7 +6,6 @@
     </title>
   </head>
   <body> 
-    <div class = "header">
-    </div>
+    <div class= "footer"></div>
   </body>
 </html>
