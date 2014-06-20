@@ -1,4 +1,11 @@
-prueba
-======
-
-Prueba Estudio 1
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      PRUEBA PAGINA
+    </title>
+  </head>
+  <body> 
+  
+  </body>
+</html>
