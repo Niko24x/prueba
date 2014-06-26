@@ -9,6 +9,6 @@
     <div class = "header"></div>
     <div class= "gallery"></div>
     <div class= "footer"></div>
-	wacata
+	a la hsit por pendejo
   </body>
 </html>
